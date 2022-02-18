@@ -3,6 +3,7 @@
 
   <default sync-j="2"/>
 
+  <remote name="meta-icn-sdk" fetch="git@github.com:shashoushou/icn-sdk.git" />
   <remote name="CAF" fetch="https://source.codeaurora.org/external/imx"/>
   <remote name="OSSystems" fetch="https://github.com/OSSystems"/>
   <remote name="QT5" fetch="https://github.com/meta-qt5"/>
@@ -37,4 +38,5 @@
   <project name="meta-timesys" path="sources/meta-timesys" remote="Timesys" revision="93bf122d77e77aac1a917865538df84f148a8fcc" upstream="gatesgarth"/>
   <project name="meta-virtualization" path="sources/meta-virtualization" remote="yocto" revision="7f719ef40896b6c78893add8485fda995b00d51d" upstream="hardknott"/>
   <project name="poky" path="sources/poky" remote="yocto" revision="269265c00091fa65f93de6cad32bf24f1e7f72a3" upstream="hardknott"/>
+  <project name="meta-icn-sdk" path="sources/meta-icn-sdk" remote="meta-icn-sdk" revision="7c59636b60588a2dba6059027812beab160b34bb" upstream="hardknott"/>
 </manifest>
