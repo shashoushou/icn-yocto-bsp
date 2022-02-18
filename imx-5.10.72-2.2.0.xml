@@ -3,7 +3,7 @@
 
   <default sync-j="2"/>
 
-  <remote name="icn-sdk" fetch="git@github.com:shashoushou/icn-sdk.git" />
+  <remote name="icn-sdk" fetch="https://github.com/shashoushou/icn-sdk.git" />
   <remote name="CAF" fetch="https://source.codeaurora.org/external/imx"/>
   <remote name="OSSystems" fetch="https://github.com/OSSystems"/>
   <remote name="QT5" fetch="https://github.com/meta-qt5"/>
