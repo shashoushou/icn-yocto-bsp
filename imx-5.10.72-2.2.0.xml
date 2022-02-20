@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <default sync-j="2"/>
+  <default sync-j="8"/>
 
   <remote name="meta-icn-sdk" fetch="https://github.com/shashoushou/icn-sdk" />
   <remote name="CAF" fetch="https://source.codeaurora.org/external/imx"/>
