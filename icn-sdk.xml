@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <default sync-j="8"/>
+  <include name="imx-5.10.72-2.2.0.xml" />	
+  <remote name="icn-sdk" fetch="https://github.com/shashoushou/icn-sdk.git" />
+  <project name="meta-icn-sdk" path="sources/meta-icn-sdk" remote="icn-sdk" revision="8a9196684f9ca61dd67b9faea0171ee251f462b4" upstream="hardknott"/>
+</manifest>
